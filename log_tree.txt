@@ -1,0 +1,14 @@
+*   7f3d5b6 (HEAD -> master) Merge branch 'Home'
+|\  
+| * 7047a45 (home) Inserito colore di sfondo blu
+| * 4c65fae Inserita immagine per la pagina Home
+| *   c441303 Merge branch 'Contatti' into home
+| |\  
+| | * 2b7ca9b (Contatti) Inserito file css per i widget
+| | * 7dad041 Creata la pagina Contatti
+| * | 26cedf2 Creata pagina Home
+| |/  
+* | d853d47 Inserito colore di sfondo rosso
+* | 8013f84 Inserita immagine
+|/  
+* 60ddfc5 Prima Commit

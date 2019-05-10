@@ -1,0 +1,105 @@
+commit 7f3d5b6ef68150102ece91f9a0ddc69b48bfae76
+Merge: d853d47 7047a45
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:41:59 2019 +0200
+
+    Merge branch 'Home'
+
+commit 7047a45f7a10e8f4c28551e19b317a74f125c541
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:40:59 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..a099bc9 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:blue;}
+\ No newline at end of file
+
+commit d853d4708f2f98add29e1b2a4a223bec92d71fdd
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:40:03 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..f634001 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:red;}
+\ No newline at end of file
+
+commit 4c65faecdea6407ae10ac47f37a4812c16630a66
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:36:14 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git "a/img/33792976-vintage-effetto-retr\303\262-stile-immagine-hippy-filtrata-del-rajasthan-sfondo-di-viaggio-due-cammellieri-ind.jpg" "b/img/33792976-vintage-effetto-retr\303\262-stile-immagine-hippy-filtrata-del-rajasthan-sfondo-di-viaggio-due-cammellieri-ind.jpg"
+new file mode 100644
+index 0000000..fda8e38
+Binary files /dev/null and "b/img/33792976-vintage-effetto-retr\303\262-stile-immagine-hippy-filtrata-del-rajasthan-sfondo-di-viaggio-due-cammellieri-ind.jpg" differ
+
+commit c441303532265f2090e2b7319a6f87a92f3ce58a
+Merge: 26cedf2 2b7ca9b
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:35:04 2019 +0200
+
+    Merge branch 'Contatti' into home
+    
+    Fusione ramo Contatti
+
+commit 2b7ca9b60763ef0929c789e427bb29e604a9708d
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:34:41 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/wigdet.css b/css/wigdet.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 7dad0415689f24ccf048652729de23585ce093e5
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:34:00 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 8013f8410f1ac6236e0536dd0ec3680cdf3a07d7
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:32:51 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/download.jpg b/img/download.jpg
+new file mode 100644
+index 0000000..c31aa3e
+Binary files /dev/null and b/img/download.jpg differ
+
+commit 26cedf20408d94d4e94411620949251143768ff5
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:31:09 2019 +0200
+
+    Creata pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 60ddfc572173f9657d95d7d492d5823c16e2b63c
+Author: PFurmanski <studente.furmanski.patryk@gmail.com>
+Date:   Fri May 10 11:30:11 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
